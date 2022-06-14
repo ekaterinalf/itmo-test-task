@@ -1,0 +1,246 @@
+{
+  "news": [
+    {
+      "id": 12634,
+      "title": "Looking Inside the Cell",
+      "image_small": "https://news.itmo.ru/images/news/small/p12634.jpg",
+      "image_big": "https://news.itmo.ru/images/news/big/p12634.jpg",
+      "creation_date": "2022-06-14 13:01:59",
+      "date": "2022-06-14 13:01:59",
+      "view_count": 14,
+      "parent_category": {
+        "category_id": 1,
+        "category_title": "Наука",
+        "color_title": "powder-blue",
+        "color": "#B8C9F1"
+      },
+      "category": {
+        "category_id": 5,
+        "category_title": "IT",
+        "color_title": "teal",
+        "color": "#3A6F81"
+      },
+      "url": "http://news.itmo.ru/ru/science/it/news/12634/"
+    },
+  {
+    "id": 12636,
+    "title": "ITMO and Almetyevsk State Oil Institute to Train Specialists in AI and Biotechnology",
+    "image_small": "https://news.itmo.ru/images/news/small/p12636.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12636.jpg",
+    "creation_date": "2022-06-10 18:33:28",
+    "date": "2022-06-10 18:33:28",
+    "view_count": 445,
+    "parent_category": {
+      "category_id": 2,
+      "category_title": "Образование",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "category": {
+      "category_id": 9,
+      "category_title": "Сотрудничество",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "url": "http://news.itmo.ru/ru/education/cooperation/news/12636/"
+  },
+  {
+    "id": 12633,
+    "title": "Industrial Laser Technologies: ITMO Launches a New Specialization",
+    "image_small": "https://news.itmo.ru/images/news/small/p12633.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12633.jpg",
+    "creation_date": "2022-06-09 16:28:04",
+    "date": "2022-06-09 16:28:04",
+    "view_count": 663,
+    "parent_category": {
+      "category_id": 2,
+      "category_title": "Образование",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "category": {
+      "category_id": 8,
+      "category_title": "Тренды",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "url": "http://news.itmo.ru/ru/education/trend/news/12633/"
+  },
+  {
+    "id": 12632,
+    "title": "The Future of Higher Education Conference: ITMO Rector Vladimir Vasilyev on Strong AI and Personalized Learning",
+    "image_small": "https://news.itmo.ru/images/news/small/p12632.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12632.jpg",
+    "creation_date": "2022-06-09 12:07:49",
+    "date": "2022-06-09 12:07:49",
+    "view_count": 712,
+    "parent_category": {
+      "category_id": 2,
+      "category_title": "Образование",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "category": {
+      "category_id": 8,
+      "category_title": "Тренды",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "url": "http://news.itmo.ru/ru/education/trend/news/12632/"
+  },
+  {
+    "id": 12630,
+    "title": "Art & Science Exhibition STAGE 2022 Takes Place at ITMO",
+    "image_small": "https://news.itmo.ru/images/news/small/p12630.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12630.jpg",
+    "creation_date": "2022-06-08 18:45:23",
+    "date": "2022-06-08 18:45:23",
+    "view_count": 611,
+    "parent_category": {
+      "category_id": 2,
+      "category_title": "Образование",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "category": {
+      "category_id": 8,
+      "category_title": "Тренды",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "url": "http://news.itmo.ru/ru/education/trend/news/12630/"
+  },
+  {
+    "id": 12628,
+    "title": "ITMO Rises in RAEX National Ranking",
+    "image_small": "https://news.itmo.ru/images/news/small/p12628.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12628.jpg",
+    "creation_date": "2022-06-08 11:25:40",
+    "date": "2022-06-08 11:25:40",
+    "view_count": 1076,
+    "parent_category": {
+      "category_id": 4,
+      "category_title": "Жизнь университета",
+      "color_title": "magenta",
+      "color": "#9B59B6"
+    },
+    "category": {
+      "category_id": 16,
+      "category_title": "Рейтинги",
+      "color_title": "magenta",
+      "color": "#9B59B6"
+    },
+    "url": "http://news.itmo.ru/ru/university_live/ratings/news/12628/"
+  },
+  {
+    "id": 12626,
+    "title": "Systems-on-a-Chip and Truly Smart Devices: MTS AI and ITMO Launch a New Lab",
+    "image_small": "https://news.itmo.ru/images/news/small/p12626.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12626.jpg",
+    "creation_date": "2022-06-07 16:14:02",
+    "date": "2022-06-07 16:14:02",
+    "view_count": 619,
+    "parent_category": {
+      "category_id": 2,
+      "category_title": "Образование",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "category": {
+      "category_id": 9,
+      "category_title": "Сотрудничество",
+      "color_title": "orange",
+      "color": "#E67E22"
+    },
+    "url": "http://news.itmo.ru/ru/education/cooperation/news/12626/"
+  },
+  {
+    "id": 12625,
+    "title": "The History of ITMO.Megabattle",
+    "image_small": "https://news.itmo.ru/images/news/small/p12625.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12625.jpg",
+    "creation_date": "2022-06-07 16:00:13",
+    "date": "2022-06-07 16:00:13",
+    "view_count": 1004,
+    "parent_category": {
+      "category_id": 4,
+      "category_title": "Жизнь университета",
+      "color_title": "magenta",
+      "color": "#9B59B6"
+    },
+    "category": {
+      "category_id": 35,
+      "category_title": "Социальная активность",
+      "color_title": "magenta",
+      "color": "#9B59B6"
+    },
+    "url": "http://news.itmo.ru/ru/university_live/social_activity/news/12625/"
+  },
+  {
+    "id": 12623,
+    "title": "AI + Chemistry: Reasons to Join ITMO’s DataCon",
+    "image_small": "https://news.itmo.ru/images/news/small/p12623.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12623.jpg",
+    "creation_date": "2022-06-06 15:50:48",
+    "date": "2022-06-06 15:50:48",
+    "view_count": 948,
+    "parent_category": {
+      "category_id": 1,
+      "category_title": "Наука",
+      "color_title": "plum",
+      "color": "#5E345E"
+    },
+    "category": {
+      "category_id": 21,
+      "category_title": "LifeScience",
+      "color_title": "teal",
+      "color": "#3A6F81"
+    },
+    "url": "http://news.itmo.ru/ru/science/life_science/news/12623/"
+  },
+  {
+    "id": 12620,
+    "title": "How to Join ITMO’s First Large-Scale Study of Academic Quality of Life",
+    "image_small": "https://news.itmo.ru/images/news/small/p12620.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12620.jpg",
+    "creation_date": "2022-06-03 12:19:12",
+    "date": "2022-06-03 12:19:12",
+    "view_count": 1783,
+    "parent_category": {
+      "category_id": 4,
+      "category_title": "Жизнь университета",
+      "color_title": "magenta",
+      "color": "#9B59B6"
+    },
+    "category": {
+      "category_id": 35,
+      "category_title": "Социальная активность",
+      "color_title": "magenta",
+      "color": "#9B59B6"
+    },
+    "url": "http://news.itmo.ru/ru/university_live/social_activity/news/12620/"
+  },
+  {
+    "id": 12619,
+    "title": "Flexible Electronics and Sensors: Researchers Develop Improved Method for Copper Micropattern Printing",
+    "image_small": "https://news.itmo.ru/images/news/small/p12619.jpg",
+    "image_big": "https://news.itmo.ru/images/news/big/p12619.jpg",
+    "creation_date": "2022-06-02 12:20:18",
+    "date": "2022-06-02 12:20:18",
+    "view_count": 1419,
+    "parent_category": {
+      "category_id": 1,
+      "category_title": "Наука",
+      "color_title": "blue",
+      "color": "#5065A1"
+    },
+    "category": {
+      "category_id": 6,
+      "category_title": "Фотоника",
+      "color_title": "teal",
+      "color": "#3A6F81"
+    },
+    "url": "http://news.itmo.ru/ru/science/photonics/news/12619/"
+  }
+]
+}
